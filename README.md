@@ -4,7 +4,7 @@ A stunning React application showcasing the power of dynamic theming with smooth
 
 ## 🌟 Live Demo
 
-**🚀 [View Live Application](https://your-hosting-link-here.com)**
+**🚀 [View Live Application](multi-theme-hub-app.vercel.app)**
 
 > *Replace the link above with your actual hosting URL (Vercel, Netlify, GitHub Pages, etc.)*
 
@@ -50,7 +50,7 @@ A stunning React application showcasing the power of dynamic theming with smooth
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/your-username/multi-theme-app.git
+   git clone https://github.com/PankajKumarDhal/Multi-Theme-Hub-app.git
    cd multi-theme-app
    \`\`\`
 
