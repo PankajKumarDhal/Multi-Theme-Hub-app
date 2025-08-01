@@ -6,7 +6,7 @@ A stunning React application showcasing the power of dynamic theming with smooth
 
 **🚀 [View Live Application](multi-theme-hub-app.vercel.app)**
 
-> *Replace the link above with your actual hosting URL (Vercel, Netlify, GitHub Pages, etc.)*
+ 🌐  multi-theme-hub-app.vercel.app
 
 ## ✨ Features
 
