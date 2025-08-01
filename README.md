@@ -4,8 +4,9 @@ A stunning React application showcasing the power of dynamic theming with smooth
 
 ## 🌟 Live Demo
 
-**🚀 [View Live Application](multi-theme-hub-app.vercel.app)**
+**🚀 [View Live Application](https://your-hosting-link-here.com)**
 
+> *Replace the link above with your actual hosting URL (multi-theme-hub-app.vercel.app)*
  🌐  multi-theme-hub-app.vercel.app
 
 ## ✨ Features
